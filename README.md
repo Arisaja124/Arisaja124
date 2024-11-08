@@ -96,8 +96,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/AliAkba58343371
-[2]: https://github.com/LoliC0d3
+[1]: https://twitter.com/Aris809
+[2]: https://github.com/Arisaja124
 [3]: https://www.instagram.com/lolic0d3/
 [4]: https://www.facebook.com/lolic0d3/
 
