@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/LoliC0d3/LoliC0d3/blob/main/rimuru.png "Header")](https://tegalsec.org)
 
-# Yokoso, Minna-San! <img src="https://github.com/LoliC0d3/LoliC0d3/blob/main/sa.png" width="30px">
+# Hataru Wes here!! <img src="https://github.com/LoliC0d3/LoliC0d3/blob/main/sa.png" width="30px">
 ## 📊 Analytics
 <img src="https://count.getloli.com/get/@:LoliC0d3" alt=":LoliC0d3" />
 <h2>📱Contact</h2>
 <div align="left">
-  <a href="mailto:mitsuhamizaki@gmail.com" target="_blank">
+  <a href="mailto: andreajbelas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />
   </a>
     <a href="https://line.me/ti/p/TPUSUZJx-F" target="_blank">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
      <a href="https://www.facebook.com/LoliC0d3/" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" height="25" alt="facebook logo"  />
   </a>
-   <a href="https://t.me/senpaisec" target="_blank">
+   <a href="https://t.me/Userlancelottt" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="telegram logo"  />
   </a>
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at https://blog.tegalsec.org
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools & Hacking
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=kali-linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
@@ -58,7 +58,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Statrs
 
 <a href="https://github.com/LoliC0d3/LoliC0d3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoliC0d3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
