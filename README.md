@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </div>
 <h2> &#x270d; Blog & Writing</h2>
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at https://blog.tegalsec.org
+Apart from coding, I also maintain a blog - you can find my articles on my website at https://blog.SalvadorCayberArmy.org
 
 ## 🔧 Technologies & Tools & Hacking
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
